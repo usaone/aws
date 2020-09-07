@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email-Consumer", "Email-Consumer\Email-Consumer.csproj", "{150B41D0-91CA-4384-9CD3-048B30BAF6E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Email-Producer", "Email-Producer\Email-Producer.csproj", "{C628B504-6468-4505-916D-46F8C34A6898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150B41D0-91CA-4384-9CD3-048B30BAF6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150B41D0-91CA-4384-9CD3-048B30BAF6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150B41D0-91CA-4384-9CD3-048B30BAF6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150B41D0-91CA-4384-9CD3-048B30BAF6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C628B504-6468-4505-916D-46F8C34A6898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C628B504-6468-4505-916D-46F8C34A6898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C628B504-6468-4505-916D-46F8C34A6898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C628B504-6468-4505-916D-46F8C34A6898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {776AB125-E651-4F03-936B-4C763D7F1DD0}
+	EndGlobalSection
+EndGlobal

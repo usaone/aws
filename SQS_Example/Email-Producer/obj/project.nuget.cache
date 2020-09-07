@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f/CcwUsJXW1aHqayK1PAPBQRyKqKEgqbc4VSCgSNDjejvowezcwUWKSlsGgENbQnsVd+HpGJ3EGbqVLdSjllwg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\aws\\SQS_Example\\Email-Producer\\Email-Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usami\\.nuget\\packages\\awssdk.core\\3.5.1.7\\awssdk.core.3.5.1.7.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\awssdk.sqs\\3.5.0.9\\awssdk.sqs.3.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

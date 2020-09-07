@@ -1,0 +1,16 @@
+D:\Code\aws\email_producer\Email-Consumer\bin\Debug\netcoreapp3.1\Email-Consumer.exe
+D:\Code\aws\email_producer\Email-Consumer\bin\Debug\netcoreapp3.1\Email-Consumer.deps.json
+D:\Code\aws\email_producer\Email-Consumer\bin\Debug\netcoreapp3.1\Email-Consumer.runtimeconfig.json
+D:\Code\aws\email_producer\Email-Consumer\bin\Debug\netcoreapp3.1\Email-Consumer.runtimeconfig.dev.json
+D:\Code\aws\email_producer\Email-Consumer\bin\Debug\netcoreapp3.1\Email-Consumer.dll
+D:\Code\aws\email_producer\Email-Consumer\bin\Debug\netcoreapp3.1\Email-Consumer.pdb
+D:\Code\aws\email_producer\Email-Consumer\obj\Debug\netcoreapp3.1\Email-Consumer.csprojAssemblyReference.cache
+D:\Code\aws\email_producer\Email-Consumer\obj\Debug\netcoreapp3.1\Email-Consumer.AssemblyInfoInputs.cache
+D:\Code\aws\email_producer\Email-Consumer\obj\Debug\netcoreapp3.1\Email-Consumer.AssemblyInfo.cs
+D:\Code\aws\email_producer\Email-Consumer\obj\Debug\netcoreapp3.1\Email-Consumer.dll
+D:\Code\aws\email_producer\Email-Consumer\obj\Debug\netcoreapp3.1\Email-Consumer.pdb
+D:\Code\aws\email_producer\Email-Consumer\obj\Debug\netcoreapp3.1\Email-Consumer.genruntimeconfig.cache
+D:\Code\aws\email_producer\Email-Consumer\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Code\aws\email_producer\Email-Consumer\bin\Debug\netcoreapp3.1\AWSSDK.SQS.dll
+D:\Code\aws\email_producer\Email-Consumer\obj\Debug\netcoreapp3.1\Email-Consumer.csproj.CoreCompileInputs.cache
+D:\Code\aws\email_producer\Email-Consumer\obj\Debug\netcoreapp3.1\Email-Consumer.csproj.CopyComplete
